@@ -1,4 +1,5 @@
 # YaMDb API
+[![Yamdb workflow](https://github.com/max-bazarov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/max-bazarov/yamdb_final/actions/workflows/yamdb_workflow.yml)
 
 ## Описание
 Проект YaMDb собирает отзывы (Review) пользователей на произведения (Title). Произведения делятся на категории: «Книги», «Фильмы», «Музыка».
