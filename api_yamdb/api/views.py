@@ -58,6 +58,8 @@ class UserViewSet(viewsets.ModelViewSet):
                 serializer.save(role='user')
             return Response(serializer.data, status=status.HTTP_200_OK)
 
+        return None
+
 
 class CategoryViewSet(UpdateDeleteViewSet):
     queryset = Category.objects.all()

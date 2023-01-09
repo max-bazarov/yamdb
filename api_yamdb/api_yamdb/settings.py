@@ -1,7 +1,8 @@
 import os
 from datetime import timedelta
-import dotenv
 from pathlib import Path
+
+import dotenv
 
 dotenv.load_dotenv()
 
