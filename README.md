@@ -1,4 +1,5 @@
 # YaMDb API
+http://158.160.46.13/redoc/
 [![Yamdb workflow](https://github.com/max-bazarov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/max-bazarov/yamdb_final/actions/workflows/yamdb_workflow.yml)
 
 ## Описание
