@@ -150,4 +150,4 @@ static/
 posts/static/
 media/
 
-!static/redoc.yaml
+!*/static/redoc.yaml
