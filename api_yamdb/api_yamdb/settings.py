@@ -12,8 +12,8 @@ SECRET_KEY = os.getenv('SECRET_KEY', default='1234567890')
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['*', 'localhost', ]
-CSRF_TRUSTED_ORIGINS = ['http://localhost', ]
+ALLOWED_HOSTS = ['*', 'localhost', '158.160.46.13']
+CSRF_TRUSTED_ORIGINS = ['http://localhost', 'http://158.160.46.13']
 AUTH_USER_MODEL = 'users.User'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
